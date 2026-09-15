@@ -238,7 +238,7 @@ yat:
 #   theme: "github-light"
 #   follow_site_theme: true
 
-remote_theme: "jeffreytse/jekyll-theme-yat"
+remote_theme: "jeffreytse/jekyll-theme-yat@v1.10.0"
 twitter_username: jekyllrb
 github_username:  myvstudios
 
